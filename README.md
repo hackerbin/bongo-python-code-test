@@ -1,4 +1,4 @@
-#Bongo python coding test solution
+# Bongo python coding test solution
 Date: 16/01/2020
 
 ### Run all unittest
